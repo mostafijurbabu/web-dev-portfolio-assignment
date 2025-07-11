@@ -15,6 +15,9 @@
   border-radius: 10px;
   border: none;
 }
+.text-center{
+  text-align: center;
+}
 
 /* header */
 .header{
@@ -131,6 +134,49 @@ main{
   opacity: 0.5;
   margin-top: 0px;
 }
+
+/* users style */
+.users-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  margin-top: 100px;
+}
+
+/* skill styles */
+.skills-container{
+  display: flex;
+  gap: 24px;
+  padding: 30px;
+  border-radius: 20px;
+}
+.skill-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: #252432;
+}
+.skill-description{
+  font-size: 18px;
+  font-weight: 600;
+  color: #252432;
+  opacity: 0.5;
+}
+.img-skill{
+  border-radius: 50%;
+  margin-top: 20px;
+}
+.img-area{
+  display: flex;
+}
+.img-text{
+  margin-left: 20px;
+}
+.skills{
+  padding: 30px;
+  box-shadow: 0px 6px 50px 0px antiquewhite;
+  border-radius: 15px;
+}
+
 
 
 
