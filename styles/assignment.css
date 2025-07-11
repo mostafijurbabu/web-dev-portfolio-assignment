@@ -177,6 +177,35 @@ main{
   border-radius: 15px;
 }
 
+/* focus styles */
+.focus{
+  background-color: whitesmoke;
+}
+.focus-title{
+  font-size: 50px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.focus-sub{
+  font-size: 16px;
+  font-weight: 600;
+  color: #252432;
+  opacity: 0.5;
+  margin-top: 0px;
+}
+.focus-area{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding-bottom: 71px;
+}
+.img-focus{
+  border-radius: 25px;
+}
+.focus-head{
+  padding-top: 71px;
+}
 
 
 
